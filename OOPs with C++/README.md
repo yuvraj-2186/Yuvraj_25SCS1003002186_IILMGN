@@ -42,7 +42,7 @@ This folder includes implementations of important problems and concepts, such as
 - Template-based programs
 - Exception handling using try-catch blocks
 
-📄 Full list of practicals: [View Here](OOPS with C++ List of Programs.pdf)
+📄 Full list of practicals: [View Here](OOPS%20with%20C++%20List%20of%20Programs.pdf)
 
 ---
 
