@@ -97,7 +97,7 @@ The system follows a structured pipeline:
 
 ## 📄 Project Report
 
-📄 [View Full Project Report](Plagiarism%20Detector%20-%20Project%20Report.pdf) :contentReference[oaicite:0]{index=0}
+📄 [View Full Project Report](Plagiarism%20Detector%20-%20Project%20Report.pdf)
 
 ---
 
